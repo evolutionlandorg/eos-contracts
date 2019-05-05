@@ -1,0 +1,8 @@
+**/*.wasm
+**/cmake-build-debug
+**/.idea
+**/build
+
+
+# Json
+*.abi
