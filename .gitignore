@@ -6,3 +6,4 @@
 
 # Json
 *.abi
+**/.eosproj
