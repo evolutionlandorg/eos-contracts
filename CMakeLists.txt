@@ -32,7 +32,8 @@ endif()
 
 add_subdirectory(hello)
 add_subdirectory(bancor)
-add_subdirectory(eosio.nft)
+#add_subdirectory(eosio.nft)
+add_subdirectory(dgoods)
 
 
 if (APPLE)
