@@ -7,3 +7,7 @@
 # Json
 *.abi
 **/.eosproj
+
+**/node_modules
+
+**/dfuse.sh

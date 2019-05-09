@@ -1,0 +1,1 @@
+DFUSE_API_KEY=<dfuse API key here> node ./scripts/dfuse.js

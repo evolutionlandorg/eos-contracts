@@ -1,0 +1,28 @@
+{
+  "name": "@evolutionland/eos",
+  "version": "1.0.0",
+  "description": "Evolution Land contracts on EOS network",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evolutionlandorg/eos-contracts.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evolutionlandorg/eos-contracts/issues"
+  },
+  "homepage": "https://github.com/evolutionlandorg/eos-contracts#readme",
+  "dependencies": {
+    "eosjs": "^20.0.0",
+    "@dfuse/client": "^0.2.0-rc.21",
+    "node-fetch": "^2.3.0",
+    "ws": "^6.2.1"
+  }
+}
