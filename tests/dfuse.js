@@ -1,4 +1,4 @@
-const { createDfuseClient, waitFor, dynamicMessageDispatcher } = require("@dfuse/client")
+const { createDfuseClient, waitFor, dynamicMessageDispatcher } = require("@dfuse/client/dist/types")
 
 if (process.env.DFUSE_API_KEY == null) {
     console.log("You must define an enviorment variable DFUSE_API_KEY containing your API key to run this sample.")

@@ -1,0 +1,1 @@
+eosio-cpp -abigen -I ./include -contract ring -o ring.wasm bancor/Token/Token.cpp
