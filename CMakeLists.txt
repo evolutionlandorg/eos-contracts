@@ -29,9 +29,7 @@ else()
     set(TEST_BUILD_TYPE ${CMAKE_BUILD_TYPE})
 endif()
 
-
-add_subdirectory(hello)
-add_subdirectory(bancor)
+add_subdirectory(eosio.token)
 #add_subdirectory(eosio.nft)
 add_subdirectory(dgoods)
 
